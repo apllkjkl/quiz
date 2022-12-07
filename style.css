@@ -1,0 +1,30 @@
+body {
+    background-image: url(cat_heterochromia_black_cat_128354_1600x900_resized\ \(2\).jpg);
+}
+
+.respostas {
+    background-color: palevioletred;
+    width: max-content;
+    height: 10%;
+    padding: 0.9%;
+    display: inline-block;
+    margin: 20% 0% 0% 3%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#pergunta {
+    background-color: lightgreen;
+    width: 20%;
+    height: fit-content;
+    padding: 0.2%;
+    margin: 5% 0% 0% 38%;
+    text-align: center;
+    border: solid black;
+    border-radius: 5px;
+    position: fixed;
+}
+
+#resposta1 {
+    margin-left: 31%;
+}

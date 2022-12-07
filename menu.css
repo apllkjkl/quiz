@@ -1,0 +1,15 @@
+#cn{
+    top: 0px;
+    left: 0px;
+    position: fixed;
+}
+
+#botao {
+    font-size: x-large;
+    background-color: blanchedalmond;
+    left: 40%;
+    width: 20%;
+    height: 5%;;
+    top: 80%;
+    position: fixed;
+}
